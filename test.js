@@ -18,6 +18,10 @@ function devide(){
 >>>>>>> devTest
 }
 function stash(){
+<<<<<<< HEAD
     console.log("我代码敲到一半需要保存，但是并不需要push");
+=======
+    console.log("我代码敲到一半需要保存");
+>>>>>>> 29ac897884354a0658b14020782072dcfe3d005e
 }
 
