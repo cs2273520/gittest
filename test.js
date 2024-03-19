@@ -6,6 +6,7 @@ function test(){
 
     console.log("提交第一次，现在进行amend修改测试");
     console.log("dev，我是main分支");
+    console.log("dev1，开始执行rebase");
 
 }
 function devide(){
