@@ -14,7 +14,7 @@ function devide(){
 }
 function stash(){
     console.log("我代码敲到一半需要保存，但是并不需要push");
-    console.log("我代码敲到一半需要保存");
+    console.log("我代码敲到一半需要保存12");
 }
 
 //主分支开始编写
