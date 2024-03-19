@@ -17,4 +17,7 @@ function devide(){
     console.log("我是测试环境");
 >>>>>>> devTest
 }
+function stash(){
+    console.log("我代码敲到一半需要保存，但是并不需要push");
+}
 
